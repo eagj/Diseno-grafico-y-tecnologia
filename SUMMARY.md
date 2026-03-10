@@ -4,4 +4,7 @@
   * [1.1. Introducción a Adobe](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/1.1.%20Introducción%20a%20Adobe.md)
   * [1.2 Adobe Creative Cloud](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/1.2%20Adobe%20Creative%20Cloud.md)
   * [1.3. Aplicaciones de Creative Cloud](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/1.3.%20Aplicaciones%20de%20Creative%20Cloud.md)
-  * 
+  * [1.4 Ejercicio](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/1.4%20Ejercicio.md)
+  * [1.5. Otras soluciones de Adobe Creative Cloud](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/1.5.%20Otras%20soluciones%20de%20Adobe%20Creative%20Cloud.md)
+* [2. Edición de imágenes y fotografías con Photoshop](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/README..md)
+  * [2.1.](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.1..md)
