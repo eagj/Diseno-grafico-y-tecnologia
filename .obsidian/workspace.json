@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "1. Diseñando con Adobe Creative Cloud/1.1. priemra leccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "1.1. priemra leccion"
             }
           }
         ],
@@ -192,13 +192,14 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5ba497ad41fb2d8e",
   "lastOpenFiles": [
-    "1. Diseñando con Adobe Creative Cloud/1.1..md",
     "SUMMARY.md",
+    "1. Diseñando con Adobe Creative Cloud/1.1. priemra leccion.md",
     "1. Diseñando con Adobe Creative Cloud"
   ]
 }
