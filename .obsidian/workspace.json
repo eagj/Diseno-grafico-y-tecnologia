@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "1. Disenando con Adobe Creative Cloud/1.1. Introducción a Adobe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "1.1. Introducción a Adobe"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Disenando con Adobe Creative Cloud/1.1. primera lección.md",
+                "file": "1. Disenando con Adobe Creative Cloud/1.1. Introducción a Adobe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1. primera lección"
+              "title": "1.1. Introducción a Adobe"
             }
           }
         ]
@@ -195,9 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18962d24e40d3b3c",
+  "active": "3ec251f85a1a1ab1",
   "lastOpenFiles": [
-    "1. Disenando con Adobe Creative Cloud/1.1. primera lección.md",
+    "Pasted image 20260310165333.png",
+    "1. Disenando con Adobe Creative Cloud/1.1. Introducción a Adobe.md",
     "SUMMARY.md",
     "1. Disenando con Adobe Creative Cloud"
   ]
