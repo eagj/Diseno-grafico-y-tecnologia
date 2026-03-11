@@ -19,4 +19,4 @@
   * [2.10. Guardar y exportar](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.10.%20Guardar%20y%20exportar.md)
   * [2.11. Ejercicio guiado](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.11.%20Ejercicio%20guiado.md)
   * [2.12. Ejercicio](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.12.%20Ejercicio.md)
-  * 
+  * [2.13. Otras herramientas alternativas](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.13.%20Otras%20herramientas%20alternativas.md)
