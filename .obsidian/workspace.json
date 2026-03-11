@@ -49,7 +49,8 @@
               "title": "2.13. Otras herramientas alternativas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec251f85a1a1ab1",
+  "active": "4a5f6795c284b3e5",
   "lastOpenFiles": [
-    "3. Gráficos vectoriales con Illustrator/3.1 Introducción.md",
     "SUMMARY.md",
+    "3. Gráficos vectoriales con Illustrator/3.1 Introducción.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.13. Otras herramientas alternativas.md",
     "3. Gráficos vectoriales con Illustrator",
     "2. Edición de imágenes y fotografías con Photoshop/2.12. Ejercicio.md",
