@@ -16,4 +16,4 @@
   * [2.7 Capas](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.7%20Capas.md)
   * [2.8. Otras herramientas y filtros](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.8.%20Otras%20herramientas%20y%20filtros.md)
   * [2.9 Edición de imagen](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.9%20Edición%20de%20imagen.md)
-  * 
+  * [2.10. Guardar y exportar](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.10.%20Guardar%20y%20exportar.md)
