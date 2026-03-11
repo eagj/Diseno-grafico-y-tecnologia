@@ -23,4 +23,5 @@
 * [3. Gráficos vectoriales con Illustrator](3.%20Gráficos%20vectoriales%20con%20Illustrator/README.md)
   * [3.1 Introducción](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.1%20Introducción.md)
   * [3.2 Primeros pasos en Illustrator](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.2%20Primeros%20pasos%20en%20Illustrator.md)
+  * [3.3 Organización del trabajo y ayudas al dibujo](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.3%20Organización%20del%20trabajo%20y%20ayudas%20al%20dibujo.md)
   * 
