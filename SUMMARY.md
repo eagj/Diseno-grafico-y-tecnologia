@@ -13,4 +13,5 @@
   * [2.4. Perfeccionando el borde](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.4.%20Perfeccionando%20el%20borde.md)
   * [2.5. Plumas y pinceles](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.5.%20Plumas%20y%20pinceles.md)
   * [2.6. Herramientas de edición](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.6.%20Herramientas%20de%20edición.md)
+  * [2.7 Capas](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.7%20Capas.md)
   * 
