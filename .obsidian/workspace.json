@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Edición de imágenes y fotografías con Photoshop/2.6. Herramientas de edición.md",
+                "file": "2. Edición de imágenes y fotografías con Photoshop/2.7 Capas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6. Herramientas de edición"
+              "title": "2.7 Capas"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,13 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a077b5a33ce582e",
+  "active": "635b9d88d99fdd60",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "2. Edición de imágenes y fotografías con Photoshop/2.8. Otras herramientas y filtros.md",
+    "2. Edición de imágenes y fotografías con Photoshop/2.5. Plumas y pinceles.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.6. Herramientas de edición.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.7 Capas.md",
-    "2. Edición de imágenes y fotografías con Photoshop/2.5. Plumas y pinceles.md",
+    "2. Edición de imágenes y fotografías con Photoshop/2.8. Otras herramientas y filtros.md",
+    "SUMMARY.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.4. Perfeccionando el borde.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.3. Herramientas de selección.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.2. Primos pasos en Photoshop.md",
