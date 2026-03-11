@@ -8,3 +8,4 @@
   * [1.5. Otras soluciones de Adobe Creative Cloud](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/1.5.%20Otras%20soluciones%20de%20Adobe%20Creative%20Cloud.md)
 * [2. Edición de imágenes y fotografías con Photoshop](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/README..md)
   * [2.1. Introducción](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.1.%20Introducción.md)
+  * [2.2. Primos pasos en Photoshop](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.2.%20Primos%20pasos%20en%20Photoshop.md)
