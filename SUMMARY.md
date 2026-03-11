@@ -11,4 +11,5 @@
   * [2.2. Primos pasos en Photoshop](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.2.%20Primos%20pasos%20en%20Photoshop.md)
   * [2.3. Herramientas de selección](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.3.%20Herramientas%20de%20selección.md)
   * [2.4. Perfeccionando el borde](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.4.%20Perfeccionando%20el%20borde.md)
+  * [2.5. Plumas y pinceles](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.5.%20Plumas%20y%20pinceles.md)
   * 
