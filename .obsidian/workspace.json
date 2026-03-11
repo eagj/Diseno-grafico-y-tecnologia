@@ -36,90 +36,21 @@
             }
           },
           {
-            "id": "688f2ebfe9809c2b",
+            "id": "ce1e4a9a591484d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Edición de imágenes y fotografías con Photoshop/2.1. Introducción.md",
+                "file": "2. Edición de imágenes y fotografías con Photoshop/2.3. Herramientas de selección.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1. Introducción"
-            }
-          },
-          {
-            "id": "9e20ee4c07aa971c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Disenando con Adobe Creative Cloud/1.4 Ejercicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4 Ejercicio"
-            }
-          },
-          {
-            "id": "ef4385c9329377c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Disenando con Adobe Creative Cloud/1.5. Otras soluciones de Adobe Creative Cloud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.5. Otras soluciones de Adobe Creative Cloud"
-            }
-          },
-          {
-            "id": "46a017142e8a9a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Disenando con Adobe Creative Cloud/1.2 Adobe Creative Cloud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2 Adobe Creative Cloud"
-            }
-          },
-          {
-            "id": "3bef65319d269ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Disenando con Adobe Creative Cloud/1.3. Aplicaciones de Creative Cloud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3. Aplicaciones de Creative Cloud"
-            }
-          },
-          {
-            "id": "5ba497ad41fb2d8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Disenando con Adobe Creative Cloud/1.1. Introducción a Adobe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1. Introducción a Adobe"
+              "title": "2.3. Herramientas de selección"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,12 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec251f85a1a1ab1",
+  "active": "ce1e4a9a591484d6",
   "lastOpenFiles": [
-    "2. Edición de imágenes y fotografías con Photoshop/2.1. Introducción.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.2. Primos pasos en Photoshop.md",
-    "1. Disenando con Adobe Creative Cloud/1.4 Ejercicio.md",
+    "2. Edición de imágenes y fotografías con Photoshop/2.3. Herramientas de selección.md",
     "SUMMARY.md",
+    "2. Edición de imágenes y fotografías con Photoshop/2.1. Introducción.md",
+    "1. Disenando con Adobe Creative Cloud/1.4 Ejercicio.md",
     "2. Edición de imágenes y fotografías con Photoshop",
     "1. Disenando con Adobe Creative Cloud/1.5. Otras soluciones de Adobe Creative Cloud.md",
     "1. Disenando con Adobe Creative Cloud/Pasted image 20260310170414.png",
