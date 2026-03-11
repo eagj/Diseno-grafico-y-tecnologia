@@ -22,3 +22,5 @@
   * [2.13. Otras herramientas alternativas](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.13.%20Otras%20herramientas%20alternativas.md)
 * [3. Gráficos vectoriales con Illustrator](3.%20Gráficos%20vectoriales%20con%20Illustrator/README.md)
   * [3.1 Introducción](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.1%20Introducción.md)
+  * [3.2 Primeros pasos en Illustrator](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.2%20Primeros%20pasos%20en%20Illustrator.md)
+  * 
