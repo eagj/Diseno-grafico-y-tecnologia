@@ -20,3 +20,5 @@
   * [2.11. Ejercicio guiado](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.11.%20Ejercicio%20guiado.md)
   * [2.12. Ejercicio](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.12.%20Ejercicio.md)
   * [2.13. Otras herramientas alternativas](2.%20Edición%20de%20imágenes%20y%20fotografías%20con%20Photoshop/2.13.%20Otras%20herramientas%20alternativas.md)
+* [3. Gráficos vectoriales con Illustrator](3.%20Gráficos%20vectoriales%20con%20Illustrator/README.md)
+  * [3.1 Introducción](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.1%20Introducción.md)
