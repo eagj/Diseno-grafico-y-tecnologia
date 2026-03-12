@@ -63,7 +63,8 @@
               "title": "3.10. Algunos trucos y consejos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,12 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec251f85a1a1ab1",
+  "active": "977424c861fc414f",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "3. Gráficos vectoriales con Illustrator/3.11. Ejercicio.md",
     "postal_animales_cartoon.zip",
     "3. Gráficos vectoriales con Illustrator/3.9. Guardar, exportar e importar.md",
-    "SUMMARY.md",
     "3. Gráficos vectoriales con Illustrator/3.10. Algunos trucos y consejos.md",
     "3. Gráficos vectoriales con Illustrator/3.8. Recortar elementos y buscatrazos.md",
     "3. Gráficos vectoriales con Illustrator/3.7. Color y degradados.md",
