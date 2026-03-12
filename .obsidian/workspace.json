@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.11. Ejercicio.md",
+                "file": "3. Gráficos vectoriales con Illustrator/3.11. Ejercicio.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,8 +63,7 @@
               "title": "3.10. Algunos trucos y consejos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "977424c861fc414f",
+  "active": "3ec251f85a1a1ab1",
   "lastOpenFiles": [
+    "3. Gráficos vectoriales con Illustrator/3.11. Ejercicio.md",
+    "postal_animales_cartoon.zip",
     "3. Gráficos vectoriales con Illustrator/3.9. Guardar, exportar e importar.md",
-    "3.11. Ejercicio.md",
     "SUMMARY.md",
     "3. Gráficos vectoriales con Illustrator/3.10. Algunos trucos y consejos.md",
     "3. Gráficos vectoriales con Illustrator/3.8. Recortar elementos y buscatrazos.md",
@@ -262,7 +262,6 @@
     "2. Edición de imágenes y fotografías con Photoshop/Ciudad apocalíptica/material/crack07.jpg",
     "2. Edición de imágenes y fotografías con Photoshop/Ciudad apocalíptica/material/crack06.jpg",
     "2. Edición de imágenes y fotografías con Photoshop/Ciudad apocalíptica/material/PINCELES",
-    "2. Edición de imágenes y fotografías con Photoshop/Ciudad apocalíptica/material",
     "2. Edición de imágenes y fotografías con Photoshop/2.8. Otras herramientas y filtros.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.7 Capas.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.5. Plumas y pinceles.md",
@@ -270,7 +269,6 @@
     "2. Edición de imágenes y fotografías con Photoshop/2.4. Perfeccionando el borde.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.3. Herramientas de selección.md",
     "2. Edición de imágenes y fotografías con Photoshop/2.2. Primos pasos en Photoshop.md",
-    "2. Edición de imágenes y fotografías con Photoshop/2.1. Introducción.md",
-    "1. Disenando con Adobe Creative Cloud/1.4 Ejercicio.md"
+    "2. Edición de imágenes y fotografías con Photoshop/2.1. Introducción.md"
   ]
 }
