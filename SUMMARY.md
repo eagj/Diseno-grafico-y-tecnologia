@@ -28,3 +28,5 @@
   * [3.5. Selección y edición de objetos](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.5.%20Selección%20y%20edición%20de%20objetos.md)
   * [3.6. Capas y subcapas](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.6.%20Capas%20y%20subcapas.md)
   * [3.7. Color y degradados](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.7.%20Color%20y%20degradados.md)
+  * [3.8. Recortar elementos y buscatrazos](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.8.%20Recortar%20elementos%20y%20buscatrazos.md)
+  * 
