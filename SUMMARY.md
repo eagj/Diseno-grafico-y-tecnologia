@@ -26,7 +26,7 @@
   * [3.3 Organización del trabajo y ayudas al dibujo](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.3%20Organización%20del%20trabajo%20y%20ayudas%20al%20dibujo.md)
   * [3.4. Herramientas básicas de dibujo y texto](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.4.%20Herramientas%20básicas%20de%20dibujo%20y%20texto.md)
   * [3.5. Selección y edición de objetos](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.5.%20Selección%20y%20edición%20de%20objetos.md)
-  * [3.6. Capas y subcapas](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.6.%20Capas%20y%20subcapas.md)
+ * [3.6. Capas y subcapas](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.6.%20Capas%20y%20subcapas.md)
   * [3.7. Color y degradados](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.7.%20Color%20y%20degradados.md)
   * [3.8. Recortar elementos y buscatrazos](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.8.%20Recortar%20elementos%20y%20buscatrazos.md)
   * [3.9. Guardar, exportar e importar](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.9.%20Guardar,%20exportar%20e%20importar.md)
