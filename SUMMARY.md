@@ -33,4 +33,4 @@
   * [3.10. Algunos trucos y consejos](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.10.%20Algunos%20trucos%20y%20consejos.md)
   * [3.11. Ejercicio](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.11.%20Ejercicio.md)
   * [3.12. Ejercicio hazlo tu mismo](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.12.%20Ejercicio%20hazlo%20tu%20mismo.md)
-  * 
+  * [3.13. Alternativas a Illustrator](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.13.%20Alternativas%20a%20Illustrator.md)
