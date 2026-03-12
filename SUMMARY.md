@@ -29,4 +29,5 @@
   * [3.6. Capas y subcapas](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.6.%20Capas%20y%20subcapas.md)
   * [3.7. Color y degradados](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.7.%20Color%20y%20degradados.md)
   * [3.8. Recortar elementos y buscatrazos](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.8.%20Recortar%20elementos%20y%20buscatrazos.md)
+  * [3.9. Guardar, exportar e importar](3.%20Gráficos%20vectoriales%20con%20Illustrator/3.9.%20Guardar,%20exportar%20e%20importar.md)
   * 
